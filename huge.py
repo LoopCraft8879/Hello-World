@@ -1,0 +1,1 @@
+print("Today's weather is very pleasure")
